@@ -15,7 +15,7 @@ require (
 	github.com/redis/go-redis/v9 v9.3.0
 	github.com/swaggo/swag v1.16.2
 	github.com/urfave/cli/v2 v2.25.7
-	golang.org/x/crypto v0.15.0
+	golang.org/x/crypto v0.22.0
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 	gorm.io/driver/mysql v1.5.2
 	gorm.io/gorm v1.25.5
@@ -63,8 +63,8 @@ require (
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d // indirect
-	golang.org/x/net v0.17.0 // indirect
-	golang.org/x/sys v0.14.0 // indirect
+	golang.org/x/net v0.21.0 // indirect
+	golang.org/x/sys v0.19.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.14.0 // indirect
